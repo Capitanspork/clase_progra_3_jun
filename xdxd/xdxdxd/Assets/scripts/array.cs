@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class array : MonoBehaviour
 {
+    int[] array = new int[5];
     // Start is called before the first frame update
     void Start()
     {
