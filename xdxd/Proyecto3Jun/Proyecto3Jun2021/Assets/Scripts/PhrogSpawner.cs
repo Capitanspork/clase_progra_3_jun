@@ -4,8 +4,9 @@ using UnityEngine;
 
 public class PhrogSpawner : MonoBehaviour
 
-    
+  
 {
+    
     public GameObject[] phrogArray;
     public GameObject posOneSpawn, posTwoSpawn, posThreeSpawn, posFourSpawn;
     private float timer = 1;
@@ -38,3 +39,4 @@ public class PhrogSpawner : MonoBehaviour
 
     
 }
+    

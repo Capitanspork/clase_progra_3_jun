@@ -157,18 +157,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 519420028}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e06733487f525204c9685716c665eb44, type: 3}
+  m_Script: {fileID: 11500000, guid: 2c2d173857d8e954bbee6068b8ffcbe8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  phrogArray:
+  Phrogs:
   - {fileID: 6255491669207278116, guid: ccb14c2f1f1d58742b4fb159fda7ca75, type: 3}
   - {fileID: 6280701201189874696, guid: fee454b90426f6a4bbc33d591d9d0578, type: 3}
   - {fileID: 9007171242284583558, guid: e325c8ce37953c6448b50cdd20e98b06, type: 3}
   - {fileID: 404104952383042566, guid: 923c5a9c5a042094abcb198639136709, type: 3}
-  posOneSpawn: {fileID: 1548905761}
-  posTwoSpawn: {fileID: 1910180204}
-  posThreeSpawn: {fileID: 2033685943}
-  posFourSpawn: {fileID: 2106608306}
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
